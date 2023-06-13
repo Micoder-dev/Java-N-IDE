@@ -32,7 +32,6 @@
     <string name="key_full_screen" translatable="false">key_full_screen</string>
     <string name="key_console_max_buffer_size" translatable="false">key_max_buffer_size</string>
     <string name="tab" translatable="false">tab</string>
-    <string name="copy_right" translatable="false">Copyright © 2016–2017 by Trần Lê Duy\nAll right reserve</string>
     <string name="key_pref_auto_compile" translatable="false">key_pref_auto_compile</string>
     <string name="key_show_symbol" translatable="false">key_show_symbol</string>
     <string name="key_max_page" translatable="false">key_max_tab</string>
